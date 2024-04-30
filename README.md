@@ -31,7 +31,7 @@ annotationProcessor 'org.mapstruct:mapstruct-processor:1.4.2.Final'
 * Response : http 상태코드, 데이터 반환 로직
 * Service : CRUD 기능 구현
 
-![디렉터리](directory.jpg)
+![디렉터리](directory.png)
 
 ### 📄 API 명세서
 [노션링크](https://receptive-coach-a3f.notion.site/b6aba3230c1444feb98740871393ddda?v=a855958aee49469c9279fb0e67f2eb44&pvs=4)
