@@ -16,8 +16,9 @@
 ### ``` git remote add origin https://github.com/Hichanmin/Capstone.git ```
 ![](git6.png)
 # 7. branch 만들고 checkout (중요!) 꼭 하세용
-### 예시엔 Chanmin 으로 해놨는데 대충 편하신대로 (git init 으로 초기화도 한번 ㄱ)
+### 예시엔 Chanmin 으로 해놨는데 대충 편하신대로
 ![](git7.png)
 # 8. 예시처럼 바뀐지 확인
 ### main 이면 클릭 한번 해보면 바뀔거임 (인텔리제이 적용 느려서)
 ![](git8.png)
+# 9. 열심히 코드 수정하기
