@@ -22,3 +22,18 @@
 ### main 이면 클릭 한번 해보면 바뀔거임 (인텔리제이 적용 느려서)
 ![](git8.png)
 # 9. 열심히 코드 수정하기
+# 10. 코드 수정완료
+### ```git add .```
+### ```git commit -m "ex)controller 수정"``` 
+### 여기서 config --global 오류가 뜬다면 (안뜨면 생략)
+### ```git config --global user.name "username 입력"```
+### ```git config --global user.email "user.email 입력"```
+### 푸쉬하기
+### ```git push origin 브랜치이름``` 7번에서 만들었던 브렌치이름
+-로그인 하라하면 하면됨
+# 11. git 들어가서 브렌치 확인
+![](git9.png)
+# 12. pull request
+![](git10.png)
+# 13.
+![](git11.png)
