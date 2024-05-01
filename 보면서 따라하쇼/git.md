@@ -12,16 +12,17 @@
 # 5.
 ![](git5.png)
 # 6. remote 연결 확인
-### 원래 clone 해오면 자동으로 remote 연결 되는데 혹시 연결x 이면 아래 복사해서 remote 연결하고  다시 ```git remote -v```로 연결 됐는지 확인하기
+### 원래 clone 해오면 자동으로 remote 연결 되는데 아래 사진처럼 안돼있으면 아래 복사해서 remote 연결하고  다시 ```git remote -v```로 연결 됐는지 확인하기
 ### ``` git remote add origin https://github.com/Hichanmin/Capstone.git ```
 ![](git6.png)
 # 7. branch 만들고 checkout (중요!) 꼭 하세용
 ### 예시엔 Chanmin 으로 해놨는데 대충 편하신대로
 ![](git7.png)
 # 8. 예시처럼 바뀐지 확인
-### main 이면 클릭 한번 해보면 바뀔거임 (인텔리제이 적용 느려서)
+### 오른쪽 상단에 main 이면 클릭 한번 해보셈 바뀔거임 (인텔리제이 적용 느려서)
 ![](git8.png)
 # 9. 열심히 코드 수정하기
+### 인텔리제이 끄거나 컴터 끄거나 프로젝트 다시 열 때 항상 8번 처럼 내가 수정중이던 브랜치인지 확인하기
 # 10. 코드 수정완료
 ### ```git add .```
 ### ```git commit -m "ex)controller 수정"``` 
@@ -40,3 +41,5 @@
 # 14.
 ![](git12.png)
 ### 이러면 9번 부터 다시
+# 15. 굳
+![](git13.png)
